@@ -1,0 +1,45 @@
+C:\Users\dong0\OneDrive\Desktop\MP33_Update\MP33_V02\DataBlock\bin\Debug\DataBlock.dll
+C:\Users\dong0\OneDrive\Desktop\MP33_Update\MP33_V02\DataBlock\bin\Debug\DataBlock.pdb
+C:\Users\dong0\OneDrive\Desktop\MP33_Update\MP33_V02\DataBlock\obj\Debug\DataBlock.csproj.AssemblyReference.cache
+C:\Users\dong0\OneDrive\Desktop\MP33_Update\MP33_V02\DataBlock\obj\Debug\DataBlock.csproj.CoreCompileInputs.cache
+C:\Users\dong0\OneDrive\Desktop\MP33_Update\MP33_V02\DataBlock\obj\Debug\DataBlock.dll
+C:\Users\dong0\OneDrive\Desktop\MP33_Update\MP33_V02\DataBlock\obj\Debug\DataBlock.pdb
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\MP33_Update - Copy\MP33_V02\DataBlock\bin\Debug\DataBlock.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\MP33_Update - Copy\MP33_V02\DataBlock\bin\Debug\DataBlock.pdb
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\MP33_Update - Copy\MP33_V02\DataBlock\obj\Debug\DataBlock.csproj.CoreCompileInputs.cache
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\MP33_Update - Copy\MP33_V02\DataBlock\obj\Debug\DataBlock.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\MP33_Update - Copy\MP33_V02\DataBlock\obj\Debug\DataBlock.pdb
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\DataBlock\bin\Debug\DataBlock.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\DataBlock\bin\Debug\DataBlock.pdb
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\DataBlock\obj\Debug\DataBlock.csproj.AssemblyReference.cache
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\DataBlock\obj\Debug\DataBlock.csproj.CoreCompileInputs.cache
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\DataBlock\obj\Debug\DataBlock.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\DataBlock\obj\Debug\DataBlock.pdb
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\DataBlock\bin\Debug\DataBlock.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\DataBlock\bin\Debug\DataBlock.pdb
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\DataBlock\obj\Debug\DataBlock.csproj.AssemblyReference.cache
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\DataBlock\obj\Debug\DataBlock.csproj.CoreCompileInputs.cache
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\DataBlock\obj\Debug\DataBlock.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\DataBlock\obj\Debug\DataBlock.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\DataBlock\bin\Debug\DataBlock.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\DataBlock\bin\Debug\DataBlock.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\DataBlock\obj\Debug\DataBlock.csproj.AssemblyReference.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\DataBlock\obj\Debug\DataBlock.csproj.CoreCompileInputs.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\DataBlock\obj\Debug\DataBlock.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\DataBlock\obj\Debug\DataBlock.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\DataBlock\bin\Debug\DataBlock.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\DataBlock\bin\Debug\DataBlock.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.csproj.AssemblyReference.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.csproj.CoreCompileInputs.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\DataBlock\bin\Debug\DataBlock.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\DataBlock\bin\Debug\DataBlock.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.csproj.CoreCompileInputs.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.pdb
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\DataBlock\bin\Debug\DataBlock.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\DataBlock\bin\Debug\DataBlock.pdb
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.csproj.CoreCompileInputs.cache
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\DataBlock\obj\Debug\DataBlock.pdb

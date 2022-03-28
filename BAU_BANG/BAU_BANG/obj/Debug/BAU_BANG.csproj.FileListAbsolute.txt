@@ -1,0 +1,480 @@
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe.config
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.pdb
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.AssemblyReference.cache
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Properties.Resources.resources
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.GenerateResource.cache
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CoreCompileInputs.cache
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.pdb
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Login.resources
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\bin\Debug\NetToolKit.dll
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\bin\Debug\SKCLNET.dll
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm.resources
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CopyComplete
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home.resources
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.PUMP_FacePlate.resources
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.GROUP_1PUMP_FacePlate.resources
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.GROUP_4MTK_FacePlate.resources
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.GROUP_4PUMP_FacePlate.resources
+C:\Users\dong0\OneDrive\Desktop\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.GROUP_2PUMP_FacePlate.resources
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\snappy32.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\snappy64.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.so
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libzstd.so
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.dylib
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dylib
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\mongocrypt.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe.config
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.pdb
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\NetToolKit.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SKCLNET.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\S7.Net.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\netstandard.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SharpCompress.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\stdole.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.pdb
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll.config
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.pdb
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll.config
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.pdb
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.AssemblyReference.cache
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe.config
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home.resources
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Login.resources
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm.resources
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Properties.Resources.resources
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.GenerateResource.cache
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CoreCompileInputs.cache
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CopyComplete
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe
+C:\Users\dong0\OneDrive\Desktop\BackUpProject\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.pdb
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.AssemblyReference.cache
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe.config
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home.resources
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Login.resources
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm.resources
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Properties.Resources.resources
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.GenerateResource.cache
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CoreCompileInputs.cache
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.pdb
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\snappy32.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\snappy64.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.so
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libzstd.so
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.dylib
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dylib
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\mongocrypt.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe.config
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.pdb
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\NetToolKit.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SKCLNET.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryDotNet.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryNetEngine.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\S7.Net.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\netstandard.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SharpCompress.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\stdole.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.pdb
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll.config
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.pdb
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll.config
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.pdb
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.pdb
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.xml
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\de\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\es\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\fr\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\hu\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\it\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ja\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\pt\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ru\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\sk\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\sv\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\tr\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\BECAMEX\BAU_BANG_UpdateV00\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CopyComplete
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\snappy32.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\snappy64.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.so
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libzstd.so
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.dylib
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dylib
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\mongocrypt.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\NetToolKit.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SKCLNET.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\S7.Net.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\netstandard.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SharpCompress.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\stdole.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.AssemblyReference.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Login.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Properties.Resources.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.GenerateResource.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CoreCompileInputs.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CopyComplete
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm_NM.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\MP33_V02\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home_NM.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\snappy32.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\snappy64.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.so
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libzstd.so
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.dylib
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dylib
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\mongocrypt.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\NetToolKit.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SKCLNET.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\S7.Net.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\netstandard.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SharpCompress.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\stdole.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.AssemblyReference.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm_NM.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home_NM.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Login.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Properties.Resources.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.GenerateResource.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CoreCompileInputs.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CopyComplete
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV00 (1)\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\snappy32.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\snappy64.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.so
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libzstd.so
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.dylib
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dylib
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\mongocrypt.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\NetToolKit.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SKCLNET.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\S7.Net.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\netstandard.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SharpCompress.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\stdole.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.AssemblyReference.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe.config
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm_NM.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home_NM.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Login.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Properties.Resources.resources
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.GenerateResource.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CoreCompileInputs.cache
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CopyComplete
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe
+C:\Users\dong0\Downloads\BAU_BANG_UpdateV01\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.pdb
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\snappy32.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\snappy64.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.so
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libzstd.so
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libsnappy64.dylib
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\libzstd.dylib
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\mongocrypt.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe.config
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.exe
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\BAU_BANG.pdb
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\NetToolKit.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SKCLNET.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\S7.Net.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\netstandard.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SharpCompress.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\stdole.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DataBlock.pdb
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.pdb
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\PLC_Config.dll.config
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.pdb
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\SCADA_Module.dll.config
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ZedGraph.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Bson.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\DnsClient.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Buffers.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Memory.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.AssemblyReference.cache
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe.config
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm_NM.resources
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home_NM.resources
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Home.resources
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Login.resources
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Alarm.resources
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.Properties.Resources.resources
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.GenerateResource.cache
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CoreCompileInputs.cache
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.exe
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.pdb
+C:\Users\Tai Nguyen\Downloads\BAU_BANG_CHON_THANH\BAU_BANG\BAU_BANG\obj\Debug\BAU_BANG.csproj.CopyComplete
